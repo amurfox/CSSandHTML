@@ -1,0 +1,155 @@
+
+body  {
+    background: linear-gradient(to right, #F13D6C, #7B46CD);
+    border: blueviolet solid;
+}
+            
+.container1 {
+    display:grid;
+    border: blueviolet solid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 70px;
+    background-color: yellow; 
+    text-align: center;
+    font-size: 25px;
+}   
+         .item1 {
+            border: blueviolet solid;        
+            
+          }
+         .item2 {
+            border: blueviolet solid;           
+          
+         }
+         .item3 {  
+            border: blueviolet solid;      
+             
+         }
+         .item4 {
+            border: blueviolet solid;            
+         
+         }
+         .item5 {
+            border: blueviolet solid;         
+
+         }
+
+.container2 {
+         display: grid;
+         grid-template-columns:70% 30%;
+         grid-template-rows:210px 39px;
+         
+         border: blueviolet solid;  
+         font-size: 25px;                     
+                
+         }
+                     
+        .item8{
+            border: blueviolet solid; 
+            background-color: yellow;
+            text-align: center;
+        }
+        .item6{}   
+                   
+        .item9{
+            border: blueviolet solid; 
+            background-color: yellow; 
+            text-align: center;
+           
+             }
+        .item10{
+            border: blueviolet solid;            
+            
+             }
+             
+    .container3 {
+            display: grid;
+            border: blueviolet solid;
+            grid-template-columns: 25% 25% 25% 25%;
+            grid-template-rows: 140px;
+            text-align: center;
+                     }
+         .item11{  border: blueviolet solid;
+           
+        }
+         .item12{ border: blueviolet solid;
+           
+        }
+         .item13{ border: blueviolet solid;
+            
+        }
+         .item14{ border: blueviolet solid;
+         
+        }
+
+    .container4 {
+            display: grid;     
+            border: blueviolet solid; 
+            grid-template-columns: 33% 67%;
+            
+            }
+
+        .item15{
+            background-color: aliceblue;
+            
+            }
+        .item16{
+            background-color: aliceblue;
+            font-size: 25px;                          
+            }  
+
+    .container5  {
+            display: grid;
+            grid: auto auto auto auto auto auto auto / auto  auto auto  auto;
+            
+        
+                      
+        }
+        .item17 {
+                              
+           
+        }
+        .item18 {            
+            
+      
+
+        }
+        .item19 {
+           
+               
+            
+
+        }
+        .item20 {
+         
+           
+        }
+        .item21 {
+          
+                              
+
+        }
+        .item22 {
+           
+            
+            
+        }
+        .item23 {
+            
+           
+        }
+        .item24 {
+         
+            
+           
+        }
+        .item25 {
+            
+           
+          
+        }
+        .item26 {
+            
+            
+        }
+       
